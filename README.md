@@ -1,0 +1,1 @@
+This software is my first automated email creation software from a Java tutorial.
